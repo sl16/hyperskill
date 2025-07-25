@@ -1,0 +1,3 @@
+[submodule "java_Battleship"]
+	path = java_Battleship
+	url = git@github.com:sl16/java_Battleship.git
